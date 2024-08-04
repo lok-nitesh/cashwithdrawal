@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.denomination-item {
+  display: flex;
+  flex-wrap: wrap;
+}
+.btn {
+  background-color: #585076;
+  border: #d4d2db 2px solid;
+  height: 50px;
+  width: 100px;
+  margin: 10px;
+}
